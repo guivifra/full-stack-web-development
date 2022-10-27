@@ -1,5 +1,5 @@
 ---
-header-include:
+header-includes:
   \usepackage{ragged2e}
 ---
 
