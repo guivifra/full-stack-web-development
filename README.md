@@ -1,13 +1,3 @@
----
-header-includes:
-  \usepackage{ragged2e}
----
-\begin{document}
-\begin{flushright}
-Text alineat a la dreta
-\end{flushright}
-\end{document}
-
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
