@@ -2,10 +2,11 @@
 header-includes:
   \usepackage{ragged2e}
 ---
-
+\begin{document}
 \begin{flushright}
 Text alineat a la dreta
 \end{flushright}
+\end{document}
 
 # create-svelte
 
